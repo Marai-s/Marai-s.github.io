@@ -1,11 +1,11 @@
-title: Log                     # title of the site
-description: Log your life     # description of the site
-url: https://professordeng.com # domain
-baseurl: "/log"                # root directory
+title: 短旅                     # title of the site
+description: 理论是灰色的，生命之树常青     # description of the site
+url: https://marai-s.github.io            # domain
+baseurl: ""                # root directory
 
 # Path of site resources
-img: /log/assets/img
-css: /log/assets/css
+img: /assets/img
+css: /assets/css
 
 ## Docs: https://pages.github.com/versions/
 plugins:
@@ -24,14 +24,14 @@ defaults:
     values:
       layout: "post"
 
-disqus: professordeng
-email: professordeng@qq.com
+disqus: Zhaoyang Song
+email: 252831772@qq.com
 
-socials:
-- name: github
-  url: https://github.com/professordeng
-- name: twitter
-  url: https://twitter.com/denglate
+#socials:
+#- name: github
+#  url: https://github.com/professordeng
+#- name: twitter
+#  url: https://twitter.com/denglate
 
 
 nav:
