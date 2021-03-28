@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: 友情链接
 ---
 
-Introduce your projects.
+暂时没有
