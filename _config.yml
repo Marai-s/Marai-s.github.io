@@ -39,6 +39,6 @@ nav:
   path: /pages/about.html
 - name: 主页
   path: /
-- name: 友情链接
+- name: 其他
   path: /pages/project.html
 

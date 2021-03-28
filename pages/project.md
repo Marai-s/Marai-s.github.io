@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 友情链接
+title: 其他
 ---
 
 暂时没有
