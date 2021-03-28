@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-This is a Jekyll theme, the following technologies are involved:
+这是一个记录笔记的地方。
 
-1. [HTML](https://www.w3schools.com/html/)
-2. [CSS](https://www.w3schools.com/css/)
-3. [Liquid](https://shopify.github.io/liquid/)
-4. [Jekyll](https://jekyllrb.com/)
+联系博主可以点击最下方邮件按钮，跳转邮箱。
