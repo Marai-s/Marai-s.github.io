@@ -35,9 +35,10 @@ email: songzhaoyangs@foxmail.com
 
 
 nav:
+- name: 关于
+  path: /pages/about.html
 - name: 主页
   path: /
-- name: Project
+- name: 友情链接
   path: /pages/project.html
-- name: About
-  path: /pages/about.html
+
