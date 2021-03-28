@@ -25,7 +25,7 @@ defaults:
       layout: "post"
 
 disqus: Zhaoyang Song
-email: 252831772@qq.com
+email: songzhaoyangs@foxmail.com
 
 #socials:
 #- name: github
@@ -35,9 +35,10 @@ email: 252831772@qq.com
 
 
 nav:
-- name: Home
-  path: /
-- name: Project
-  path: /pages/project.html
-- name: About
+- name: 关于
   path: /pages/about.html
+- name: 主页
+  path: /
+- name: 友情链接
+  path: /pages/project.html
+
