@@ -3,7 +3,7 @@ layout: page
 title: 其他
 ---
 
-### **一些有趣的网站**
+### **一些网站**
 
 [Nature](https://www.nature.com/)
 
