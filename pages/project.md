@@ -3,6 +3,8 @@ layout: page
 title: 其他
 ---
 
+![picture]({{ site.img }}/cute.jpeg)
+
 ### **一些网站**
 
 [Nature](https://www.nature.com/)
