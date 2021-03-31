@@ -13,6 +13,8 @@ title: 其他
 
 [Python学习与物理结合](http://bugman123.com/Physics/)
 
+[CM and GT and AQM (SCU courses)](http://cc.scu.edu.cn/G2S/Template/View.aspx?action=view&courseType=0&courseId=5783)
+
 [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com/)
 
 [豆瓣电影Top 250](https://movie.douban.com/top250)
