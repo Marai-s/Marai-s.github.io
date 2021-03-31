@@ -11,6 +11,8 @@ title: 其他
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
+[David Tong: Cambridge Lecture Notes on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+
 [How to become a GOOD Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)
 
 [Python学习与物理结合](http://bugman123.com/Physics/)
