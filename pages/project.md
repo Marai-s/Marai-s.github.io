@@ -9,6 +9,8 @@ title: 其他
 
 [Nature](https://www.nature.com/)
 
+[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+
 [How to become a GOOD Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)
 
 [Python学习与物理结合](http://bugman123.com/Physics/)
