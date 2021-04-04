@@ -24,20 +24,12 @@ JupyterLab：`pip install jupyterlab`
 
 你可以在命令行使用`jupyter-lab`或`jupyter lab`命令，然后默认浏览器会自动打开Jupyter Lab。
 
-## 2.1 如何在指定文件夹内打开Jupyter Notebook
+## 2.1 如何在指定文件夹内运行
 
-在cmd中先将路径切换到相应路径之后在运行命令jupyter notebook 即可。
+在cmd中先将路径切换到相应路径之后再运行命令打开相应工具。
 
 一般将路径转到相应盘符下即可。
 
-
-
-
-
 # 其他
 
-一个本地浏览Jupyter Notebook的工具：https://github.com/jsvine/nbpreview
-
-# 参考文献
-
-[1] Griffiths D J. Introduction to electrodynamics[J]. 2005.
+> 一个小tips：偶尔遇到cmd问题可以尝试以管理员身份运行，再次尝试
